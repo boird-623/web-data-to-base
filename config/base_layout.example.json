@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "base": {
+    "name": "网页数据采集结果",
+    "url": "",
+    "token": ""
+  },
+  "account_vault": {
+    "table_name": "账号密码本",
+    "table_id": ""
+  },
+  "site_tables": {}
+}

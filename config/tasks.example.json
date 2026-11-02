@@ -1,0 +1,13 @@
+{
+  "schema_version": 3,
+  "填写说明": "不要手动填写。这个文件由系统根据用户回答自动创建和更新。每个任务都包含保存位置；用户未指定时默认保存到‘网页数据采集结果’，并从 Base 布局读取对应链接。页面采集按网址自动分表，下载文件导入按工作表策略确定数据表；用户可随时用自然语言修改任务保存位置。",
+  "setup": {
+    "status": "requirements_pending",
+    "trial_verified_accounts": [],
+    "trial_skipped_accounts": [],
+    "trial_account_decisions": {},
+    "pending_new_account_questions": {}
+  },
+  "execution_plan": null,
+  "任务列表": []
+}
